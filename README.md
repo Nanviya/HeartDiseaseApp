@@ -1,5 +1,11 @@
+# report link
+https://www.overleaf.com/project/682545445cd63733171b3399
 
-# Heart Disease Prediction App
+# Heart Disease Prediction video presentation
+https://drive.google.com/drive/folders/1O6WQMS8s6pVyNtcJaQeTP_ZAp2-lzk4r?usp=sharing
+
+# Heart disease predictionn app
+https://drive.google.com/drive/folders/1ox5AEEJ_XTLLIS64LUpqehPR9rt6SB58?usp=sharing
 
 This project aims to predict the likelihood of heart disease in a patient based on various medical attributes. It includes a machine learning model developed in a Jupyter Notebook and a Flask API to serve predictions.
 
